@@ -241,4 +241,4 @@ This repository serves as the official landing page for Redemption Cemetery: Cur
 **Get the most recent version of Redemption Cemetery: Curse of the Raven today!**
 
 ---
-**Last updated:** 2026-09-29 04:26:04 UTC
+**Last updated:** 2026-09-29 11:07:40 UTC
